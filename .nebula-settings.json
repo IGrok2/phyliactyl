@@ -1,0 +1,26 @@
+{
+  "brand": {
+    "name": "Phylex",
+    "tagline": "Game"
+  },
+  "smtp": {
+    "host": "",
+    "port": 587,
+    "encryption": "tls",
+    "username": "",
+    "password": "",
+    "fromAddress": "",
+    "fromName": ""
+  },
+  "http": {
+    "connectionTimeout": 5,
+    "requestTimeout": 15,
+    "proxy": "",
+    "userAgent": ""
+  },
+  "allocation": {
+    "enabled": false,
+    "startPort": 0,
+    "endPort": 0
+  }
+}
